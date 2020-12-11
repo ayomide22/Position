@@ -97,3 +97,32 @@ h2{
         left: 83px;
         width: 40px;
     }
+    .approach{
+        position: absolute;
+        top: 1000px;
+        right: 700px;
+        color: blue;
+        font-size: 45px;
+        font-family: Lato;
+        line-height: 150%;
+        font-style: normal;
+    }
+    .competition{
+        position: absolute;
+        width: 558px;
+        height: 817px;
+        left: 1017px;
+        font-size: 25px;
+        font-family: Lato;
+        line-height: 150%;
+        font-style: normal;
+        
+    }
+    .button3{
+        background-color: rgb(212, 202, 202);
+       color: white;
+       border: 5px solid #5CE0E6;
+       padding: 16px 40px;
+       font-size: 35px;
+       font-weight: lighter;
+    }

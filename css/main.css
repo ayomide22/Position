@@ -97,9 +97,20 @@ h2{
         left: 83px;
         width: 40px;
     }
+    .Highly{
+        position: absolute;
+        width: 600px;
+        font-size: 55px;
+        font-family: Nunito;
+        font-style: normal;
+        height: 150px;
+        left: 65px;
+        line-height: 75px;
+        text-align: right;
+    }
     .approach{
         position: absolute;
-        top: 1000px;
+        top: 900px;
         right: 700px;
         color: blue;
         font-size: 45px;
@@ -109,6 +120,7 @@ h2{
     }
     .competition{
         position: absolute;
+        top: 1020px;
         width: 558px;
         height: 817px;
         left: 1017px;
